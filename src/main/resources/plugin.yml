@@ -1,0 +1,4 @@
+name: RPGCore
+version: ${project.version}
+main: com.aquarius.rpgplugin.rpgcore.RPGPlugin
+api-version: '1.15'
